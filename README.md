@@ -1,2 +1,2 @@
-# Github-App-
-Using html, css, javascript and fetch API
+# Screenshots-
+Using html, css and javascript
